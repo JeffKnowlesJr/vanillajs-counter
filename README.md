@@ -2,8 +2,8 @@
 
 ## Source
 
-[How to create a Web Component using Vanilla JS](https://www.youtube.com/watch?v=vLkPBj9ZaU0)
-[Channel: A shot of code](https://www.youtube.com/c/Ashotofcode)
+- [Video: How to create a Web Component using Vanilla JS](https://www.youtube.com/watch?v=vLkPBj9ZaU0)
+- [Channel: A shot of code](https://www.youtube.com/c/Ashotofcode)
 
 ## Proposal
 
